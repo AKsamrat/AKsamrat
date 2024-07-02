@@ -1,7 +1,7 @@
 <a href="https://ibb.co/5sbgbLb"><img src="https://i.ibb.co/6Dj7jFj/git-hub.jpg" alt="git-hub" border="0"></a>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AKsamrat)  
-<p>
+ 
+<p align="center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKsamrat)](https://github.com/anuraghazra/github-readme-stats)
 
