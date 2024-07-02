@@ -1,4 +1,4 @@
-(<a href="https://ibb.co/5sbgbLb"><img src="https://i.ibb.co/6Dj7jFj/git-hub.jpg" alt="git-hub" border="0"></a>)
+<a href="https://ibb.co/5sbgbLb"><img src="https://i.ibb.co/6Dj7jFj/git-hub.jpg" alt="git-hub" border="0"></a>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AKsamrat)  
 
