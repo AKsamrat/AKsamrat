@@ -1,6 +1,8 @@
 <a href="https://ibb.co/5sbgbLb"><img src="https://i.ibb.co/6Dj7jFj/git-hub.jpg" alt="git-hub" border="0"></a>
 
- 
+ My greatest passion is web developing which I have chosen to make it my career and make a living out of it . That's why i seeking challenging and innovative organization which can recognize and utilize my real dedication and expertness. I completed my BSc and MSc degree under computer science and engineering .I have a strong foundation in programming and successfully developing and implementing web projects.I build my skill and experience as full stack web developer(MERN) .
+
+I'm deeply committed to continuous learning and growth, always seeking opportunities to expand my skill set and stay updated with the latest industry trends. If you're seeking a motivated team player with a passion for crafting exceptional digital experiences, I'd love to connect and discuss how I can add value to your team.
 <p align="center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKsamrat)](https://github.com/anuraghazra/github-readme-stats)
