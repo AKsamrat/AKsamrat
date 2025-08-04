@@ -1,4 +1,6 @@
-<a href="www.linkedin.com/in/anuwarul-kabir"><img src="https://i.ibb.co/nNLB0WzM/git-cover.png" alt="git-hub" width="100%" height="100%" border="0"></a>
+<a href="https://www.linkedin.com/in/anuwarul-kabir" target="_blank" style="display: block; height: 100vh; margin: 0;">
+  <img src="https://i.ibb.co/nNLB0WzM/git-cover.png" alt="ak-samrat" style="width: 100%; height: 100%; object-fit: cover; display: block; border: none;">
+</a>
 
  My greatest passion is web developing which I have chosen to make it my career and make a living out of it . That's why i seeking challenging and innovative organization which can recognize and utilize my real dedication and expertness. I completed my BSc and MSc degree under computer science and engineering .I have a strong foundation in programming and successfully developing and implementing web projects.I build my skill and experience as full stack web developer(MERN) .
 
